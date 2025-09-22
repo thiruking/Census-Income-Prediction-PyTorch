@@ -25,5 +25,5 @@ Key highlights:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/census-income-pytorch.git
+git clone https://github.com/thiruking/Census-Income-Prediction-PyTorch
 cd census-income-pytorch

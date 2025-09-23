@@ -200,3 +200,6 @@ def predict_new(sample_dict):
 <img width="582" height="323" alt="image" src="https://github.com/user-attachments/assets/4c99badd-5506-463e-b324-273f75a108b9" />
 <img width="673" height="432" alt="image" src="https://github.com/user-attachments/assets/0b926511-2bea-4b63-8b66-ab404863acc4" />
 
+## RESULT :
+
+The Census Income Prediction model was trained successfully using PyTorch on the Adult/Census Income dataset.
